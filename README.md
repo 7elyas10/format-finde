@@ -17,9 +17,9 @@ git clone https://github.com/7elyas10/format-finde.git
 
 cd format-finde
 
-pip3 install -r req.txt
+pip install -r req.txt
 
-python3 format_finder.py
+python format_finder.py
 ```
 
 ## Operating Systems Tested
