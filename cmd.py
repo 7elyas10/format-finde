@@ -3,8 +3,6 @@ import pyfiglet
 from subprocess import check_output
 from colorama import Fore , Back
 from colorama.initialise import init
-from os import  replace
-
 p = 3
 
 init ()
