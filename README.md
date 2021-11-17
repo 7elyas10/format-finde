@@ -13,13 +13,13 @@
 
 # install format finder
 ```
-1- git clone https://github.com/7elyas10/format-finde.git
+git clone https://github.com/7elyas10/format-finde.git
 
-2- cd format-finde
+cd format-finde
 
-3- pip3 install -r req.txt
+pip3 install -r req.txt
 
-4- python3 format_finder.py
+python3 format_finder.py
 ```
 
 ## Operating Systems Tested
