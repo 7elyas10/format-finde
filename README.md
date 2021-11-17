@@ -10,6 +10,7 @@
 4- Select one of the options to continue
 
 5- Continue according to the instructions
+(! Use the (c:\) path to search the entire device !)
 
 # install format finder
 ```
@@ -23,5 +24,5 @@ python format_finder.py
 ```
 
 ## Operating Systems Tested
-- Windows 10
+- Windos
 
