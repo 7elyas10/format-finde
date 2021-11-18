@@ -24,5 +24,5 @@ python format_finder.py
 ```
 
 ## Operating Systems Tested
-- Windos
+- windows
 
